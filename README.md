@@ -32,3 +32,5 @@ Please adhere to this project's `code of conduct`.
 
 For support, email fake@fake.com or join our Slack channel.
 
+new line
+
